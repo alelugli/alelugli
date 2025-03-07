@@ -32,7 +32,7 @@
   Typing Presentation & Contact Area:
 -->
 <a href="https://github.com/alelugli">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=+Hey,+i'm+Alexandra+Lugli+=];+I'm+a+product+designer+=};+I'm+based+in+São+Paulo+•ᴗ•;"  alt="Alexandra Lugli's Profile Presentation "/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=+Hey,+i'm+Alexandra+Lugli+=];+I'm+a+product+designer;+I'm+based+in+São+Paulo+•ᴗ•;"  alt="Alexandra Lugli's Profile Presentation "/>
 </a>
 
 <!-- Improvised Margin -->
