@@ -6,7 +6,7 @@
 
 My approach is deeply rooted in strategy, research, and data. I leverage quantitative insights, user behavior analysis, and qualitative research to inform and refine design decisions—ensuring that every solution is backed by real-world validation and business intelligence. Whether shaping a product from discovery to execution or leading design strategy for high-growth teams, I thrive in solving complex challenges with precision and clarity.
 
-For me, design is not just about interfaces — it’s about understanding people, predicting patterns, and driving innovation through thoughtful, strategic decision-making.
+For me, design is about understanding people, predicting patterns, and driving innovation through thoughtful, strategic decision-making.
 
 Currently, I’m expanding my expertise at the intersection of design, AI, and game development, exploring new ways to craft immersive digital experiences.
 </p>
