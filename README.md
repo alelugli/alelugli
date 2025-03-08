@@ -11,7 +11,6 @@ For me, design is about understanding people, predicting patterns, and driving i
 Currently, I’m expanding my expertise at the intersection of design, AI, and game development, exploring new ways to craft immersive digital experiences.
 </p>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 #
 
@@ -55,6 +54,8 @@ Currently, I’m expanding my expertise at the intersection of design, AI, and g
 <!--
   Level, Achievements & Most Used Languages:
 -->
+
+<img align="right" alt="" height="190px" src=".src/study(1).gif">
 
 <p align="center">
     👾 Other GitHub Stats :
