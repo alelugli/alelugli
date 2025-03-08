@@ -17,7 +17,7 @@ Currently, I’m expanding my expertise at the intersection of design, AI, and g
 
 
 <p align="center">
-  🐍 HEY! THIS ISN’T A SNACK!
+  🐍 WAIT - DON’T EAT MY COMMITS!
 </p>
 <div align="center">
   <a href="https://github.com/alelugli">
