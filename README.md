@@ -1,3 +1,18 @@
+# Alexandra Lugli
+<br>
+<p align="left">
+    👻 About me 
+</p>
+I’m a **`Staff Product Designer`** specializing in strategic, **data-driven design that transforms complexity into seamless user experiences**. With a strong background in fintech, credit products, and system design, I excel at aligning business objectives with user needs to create products that are not just intuitive, but measurable, scalable, and impactful.
+
+My approach is deeply rooted in strategy, research, and data. I leverage quantitative insights, user behavior analysis, and qualitative research to inform and refine design decisions—ensuring that every solution is backed by real-world validation and business intelligence. Whether shaping a product from discovery to execution or leading design strategy for high-growth teams, I thrive in solving complex challenges with precision and clarity.
+
+For me, design is not just about interfaces—it’s about understanding people, predicting patterns, and driving innovation through thoughtful, strategic decision-making.
+
+Currently, I’m expanding my expertise at the intersection of design, AI, and game development, exploring new ways to craft immersive digital experiences.
+
+<br>
+
 <!--       
     Stacks:   
 -->
@@ -11,7 +26,9 @@
   </a> 
 </div>
 
-
+<!--
+### 🤖 Linguagens e Tecnologias
+-->
  
 
 <!-- Improvised Margin -->
@@ -31,9 +48,12 @@
 <!--
   Typing Presentation & Contact Area:
 -->
+
+<!--
 <a href="https://github.com/alelugli">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=+Hey,+i'm+Alexandra+Lugli+=];+I'm+a+product+designer;+I'm+based+in+São+Paulo+•ᴗ•;"  alt="Alexandra Lugli's Profile Presentation "/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=+Hey,+i'm+Alexandra+Lugli+=];+I'm+a+product+designer;+I'm+based+in+São+Paulo;"  alt="Alexandra Lugli's Profile Presentation "/>
 </a>
+-->
 
 <!-- Improvised Margin -->
 <p></p>
