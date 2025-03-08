@@ -16,18 +16,6 @@ Currently, I’m expanding my expertise at the intersection of design, AI, and g
 #
 
 
-
-<!--
-  Streaks
--->
-<div align="center">  
-  <a href="https://github.com/alelugli">
-    <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=alelugli&count_private=true&theme=tokyonight&hide_border=true" alt="Alexandra's GitHub Streak Stats" /> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alelugli&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Alexandra's GitHub Stats" />
-  </a>
-</div>
-
-
 <p align="center">
   🐍 HEY! THIS ISN’T A SNACK!
 </p>
@@ -40,6 +28,18 @@ Currently, I’m expanding my expertise at the intersection of design, AI, and g
 </picture>
   </a>
 </div>
+
+<!--
+  Streaks
+-->
+<div align="center">  
+  <a href="https://github.com/alelugli">
+    <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=alelugli&count_private=true&theme=tokyonight&hide_border=true" alt="Alexandra's GitHub Streak Stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alelugli&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Alexandra's GitHub Stats" />
+  </a>
+</div>
+
+
 
 <!--
   Contributions Graph & Visitors Count
