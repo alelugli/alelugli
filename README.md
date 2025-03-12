@@ -1,15 +1,19 @@
 <h1 align="left"> Alexandra Lugli </h1>
 
-<p align="left"> 👻 About me </p>
+👋 Hi, I’m Alexandra – a strategic, data-driven Product Designer.
+I thrive at the intersection of design, strategy, and technology, turning complex systems into intuitive, scalable experiences. With a strong background in fintech, credit products, and digital platforms, I specialize in crafting user-centric solutions that balance business goals, user needs, and data-driven insights.
 
-<p align="left">I’m a Staff Product Designer specializing in strategic, data-driven design that transforms complexity into seamless user experiences. With a strong background in fintech, credit products, and design process, I excel at aligning business objectives with user needs to create products that are not just intuitive, but measurable, scalable, and impactful.
+✨ What I do best:
+Lead end-to-end product design, from discovery to delivery
+Transform intricate challenges into seamless, high-impact experiences
+Partner cross-functionally with PMs, engineers, and researchers
+Use data & behavioral insights to guide strategic design decisions
+Design and scale cohesive design systems
 
-My approach is deeply rooted in strategy, research, and data. I leverage quantitative insights, user behavior analysis, and qualitative research to inform and refine design decisions—ensuring that every solution is backed by real-world validation and business intelligence. Whether shaping a product from discovery to execution or leading design strategy for high-growth teams, I thrive in solving complex challenges with precision and clarity.
+💬 Let’s connect!
+I’m open to collaborations, mentorship, and new opportunities. If you’re building something exciting, I’d love to hear about it.
 
-For me, design is about understanding people, predicting patterns, and driving innovation through thoughtful, strategic decision-making.
-
-Currently, I’m expanding my expertise at the intersection of design, AI, and game development, exploring new ways to craft immersive digital experiences.
-</p>
+I’m passionate about mentoring, exploring AI in design, and crafting immersive digital experiences. When I’m not designing fintech solutions, I’m diving into game UI/UX, dark-cute aesthetics, and psychological horror interfaces.
 
 
 #
