@@ -25,7 +25,7 @@ Currently, I’m expanding my expertise at the intersection of design, AI, and g
   </a>
 </div>
 
-
+<!--
 <p align="center">
   🐍 HEY - DON’T EAT MY COMMITS!
 </p>
@@ -38,6 +38,7 @@ Currently, I’m expanding my expertise at the intersection of design, AI, and g
 </picture>
   </a>
 </div>
+-->
 
 <!--
   Contributions Graph & Visitors Count
