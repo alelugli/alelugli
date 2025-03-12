@@ -1,7 +1,7 @@
 <h1 align="left"> Alexandra Lugli </h1>
 
 👋 Hi, I’m Alexandra – a strategic, data-driven Product Designer.
-I thrive at the intersection of design, strategy, and technology, turning complex systems into intuitive, scalable experiences. With a strong background in fintech, credit products, and digital platforms, I specialize in crafting user-centric solutions that balance business goals, user needs, and data-driven insights.
+I thrive at the intersection of design, strategy, and technology, turning complex systems into intuitive, scalable experiences. With a strong background in fintech, credit products, and digital platforms, I specialize in crafting user-centric solutions that balance business goals, user needs, and data-driven insights. When I’m not designing fintech solutions, **I’m diving into game UI/UX, dark aesthetics, and psychological horror interfaces**.
 
 ✨ What I do best:
 Lead end-to-end product design, from discovery to delivery
@@ -13,7 +13,7 @@ Design and scale cohesive design systems
 💬 Let’s connect!
 I’m open to collaborations, mentorship, and new opportunities. If you’re building something exciting, I’d love to hear about it.
 
-I’m passionate about mentoring, exploring AI in design, and crafting immersive digital experiences. When I’m not designing fintech solutions,** I’m diving into game UI/UX, dark-cute aesthetics, and psychological horror interfaces**.
+I’m passionate about mentoring, exploring AI in design, and crafting immersive digital experiences. 
 
 
 #
