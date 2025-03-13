@@ -13,8 +13,6 @@ Design and scale cohesive design systems
 💬 Let’s connect!
 I’m open to collaborations, mentorship, and new opportunities. If you’re building something exciting, I’d love to hear about it.
 
-I’m passionate about mentoring, exploring AI in design, and crafting immersive digital experiences. 
-
 
 #
 
