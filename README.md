@@ -2,16 +2,16 @@
 
 💬 Let’s connect! I’m open to collaborations, mentorship, and new opportunities. If you’re building something exciting, I’d love to hear about it.
 
-👋 Hi, I’m a strategic, data-driven Product Designer. I thrive at the intersection of design, strategy, and technology, turning complex systems into intuitive, scalable experiences. With a strong background in fintech, credit products, and digital platforms, I specialize in crafting user-centric solutions that balance business goals, user needs, and data-driven insights.
+Hi, I’m a strategic, data-driven Product Designer. I thrive at the intersection of design, strategy, and technology, turning complex systems into intuitive, scalable experiences. With a strong background in fintech, credit products, and digital platforms, I specialize in crafting user-centric solutions that balance business goals, user needs, and data-driven insights.
 
-🎮 I’m also drawn to game UI/UX, dark aesthetics, and psychological horror interfaces - where art, technology, and emotion collide.
+🎮 I’m also drawn to game UI/UX, dark aesthetics, and psychological immersive interfaces - where art, technology, and emotion collide.
 
-✨ What I do best:
-Lead end-to-end product design, from discovery to delivery;
-Transform intricate challenges into seamless, high-impact experiences;
-Partner cross-functionally with PMs, engineers, and researchers;
-Use data & behavioral insights to guide strategic design decisions;
-Design and scale cohesive design systems.
+What I do best:
+- Lead end-to-end product design, from discovery to delivery;
+- Transform intricate challenges into seamless, high-impact experiences;
+- Partner cross-functionally with PMs, engineers, and researchers;
+- Use data & behavioral insights to guide strategic design decisions;
+- Design and scale cohesive design systems.
 
 
 #
