@@ -1,6 +1,6 @@
 <h1 align="left"> Alexandra Lugli </h1>
 
-💬 Let’s connect! I’m open to collaborations, mentorship, and new opportunities. If you’re building something exciting, I’d love to hear about it.
+💬 Let’s connect! I’m open to collaborations, if you’re building something exciting, I’d love to hear about it.
 
 Hi, I’m a strategic, data-driven Product Designer. I thrive at the intersection of design, strategy, and technology, turning complex systems into intuitive, scalable experiences. I specialize in crafting user-centric solutions that balance business goals, user needs, and data-driven insights.
 
