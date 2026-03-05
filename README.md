@@ -4,7 +4,7 @@
 
 Hi, I’m a strategic, data-driven Product Designer. I thrive at the intersection of design, strategy, and technology, turning complex systems into intuitive, scalable experiences. I specialize in crafting user-centric solutions that balance business goals, user needs, and data-driven insights.
 
-🎮 I’m also drawn to game UI/UX, dark aesthetics, and psychological immersive interfaces where art, technology, and emotion collide.
+🎮 I’m also exploring game design and psychologically immersive environments
 
 What I do best:
 - Lead end-to-end product design, from discovery to delivery;
@@ -14,12 +14,8 @@ What I do best:
 - Design and scale cohesive design systems.
 
 Currently focused on:
-- Exploring game design and psychologically immersive environments
 - Designing data-informed interfaces for intelligent agents and AI-powered platforms
 - Creating GenAI experiences backed by user research and performance metrics
-
-
-#
 
 
 <!--
@@ -28,7 +24,7 @@ Currently focused on:
 <div align="center">  
   <a href="https://github.com/alelugli">
     <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=alelugli&count_private=true&theme=tokyonight&hide_border=true" alt="Alexandra's GitHub Streak Stats" /> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alelugli&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Alexandra's GitHub Stats" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alelugli&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
   </a>
 </div>
 
@@ -51,28 +47,19 @@ Currently focused on:
   Contributions Graph & Visitors Count
 -->
 <div align="center">
-  <a href="https://github.com/alelugli">
-    <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=alelugli&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">-->
+  <!-- <a href="https://github.com/alelugli">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alelugli&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"> -->
     <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=alelugli.alelugli" alt="Page Visitors" />
   </a>
 </div>
 
 
-#
 <!--
   Level, Achievements & Most Used Languages:
 -->
 
-<img align="right" alt="" height="190px" src=".src/study(1).gif">
-
-<p align="center">
-    👾 Other GitHub Stats :
-</p>
 
 
-<div align="center">
-  <a href="https://github.com/alelugli">
-    <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=alelugli&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
   </a>
 </div>
 
